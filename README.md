@@ -157,13 +157,6 @@ Create an accessible, interactive dashboard enabling exploration of 140+ years o
 - **Comparative Views** — Side-by-side comparisons of different time periods
 - **Search Functionality** — Find specific names and track their popularity journey
 
-### Use Cases
-- **Researchers**: Analyze demographic and cultural trends through naming
-- **Demographers**: Understand US population shifts and cultural movements
-- **Writers/Creatives**: Research authentic name choices for different time periods
-- **Genealogists**: Understand naming conventions in historical research
-- **General Users**: Explore personal curiosity about naming trends and history
-
 ---
 
 ## Technical Skills Demonstrated
@@ -200,7 +193,7 @@ Create an accessible, interactive dashboard enabling exploration of 140+ years o
 
 4. **Immigration Patterns**: Name diversity and ethnic name adoption patterns reflect US immigration waves
 
-5. **Modern Uniqueness**: Recent decades show increasing name diversity—fewer babies share the #1 most popular name compared to historical averages
+5. **Modern Uniqueness**: Recent decades show increasing name diversity. Fewer babies share the #1 most popular name compared to historical averages
 
 6. **Decade-Specific Preferences**: Each decade has distinct naming preferences, reflecting contemporary culture, media, and social trends
 
